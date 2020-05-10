@@ -12,7 +12,7 @@ This script is used to launch the Elecraft Remote Host applications automaticall
 * KAT500 Remote 
 * KPA1500 Remote
 
-These Applications are available from ![Elecraft](https://elecraft.com/pages/kpa1500-kpa500-kat500-remote-software)
+These Applications are available from the offical Elecraft website [Download Page](https://elecraft.com/pages/kpa1500-kpa500-kat500-remote-software)
 
 ## Installation
 
