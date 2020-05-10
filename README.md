@@ -1,6 +1,6 @@
 # Kstart-RemoteHost
 
-Kstart-RemoteHost.cmd is a DOS command script that facilitates boot-time startup of Remote Host applications for the Elecraft KPA1500 Amplifier, KAT500 Amplifier and KAT500 Automatic Tuner.  
+Kstart-RemoteHost.cmd is a DOS command script that facilitates boot-time startup of Remote Host applications for the Elecraft KPA1500 Amplifier, KPA500 Amplifier and KAT500 Automatic Antenna Tuner.  
 
 ## Script Kstart-RemoteHost.cmd
 
